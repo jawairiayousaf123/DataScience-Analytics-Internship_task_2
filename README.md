@@ -42,5 +42,5 @@ The project follows a structured, production-grade end-to-end Data Science workf
 
 ## 📁 Repository File Structure
 * `loan_prediction.csv` - Raw input text dataset containing historical profile matrices.
-* `task_2file.ipynb` - Clean, comment-supported Jupyter Notebook containing all processing transformations, code blocks, and output charts.
+* `Credit_Risk_Prediction.ipynb` - Clean, comment-supported Jupyter Notebook containing all processing transformations, code blocks, and output charts.
 * `README.md` - Executive summary brief.
