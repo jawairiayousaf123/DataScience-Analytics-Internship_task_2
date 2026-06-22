@@ -5,7 +5,7 @@ The primary objective of this project is to automate the credit risk assessment 
 
 ---
 
-## 🛠️ Your Approach & Methodology
+## 🛠️ Approach & Methodology
 
 The project follows a structured, production-grade end-to-end Data Science workflow broken down into five distinct phases:
 
